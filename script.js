@@ -18,5 +18,5 @@ navLinks.querySelectorAll("a").forEach((link) => {
 document.getElementById("year").textContent = new Date().getFullYear();
 
 // IMPORTANT: Replace this placeholder with your real email before publishing.
-const emailAddress = "your.email@example.com";
-document.getElementById("emailLink").href = `mailto:${emailAddress}`;
+const emailAddress = "alphatobeta0234@gmail.com";
+document.getElementById("alphatobeta0234@gmail.com").href = `mailto:${alphatobeta0234@gmail.com}`;
